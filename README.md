@@ -1,5 +1,16 @@
 ## web template
 
+シンプルなベースの開発環境
+LP 向き
+
+- HTML
+- Sass
+- JavaScript
+
+## 他の開発環境
+
+- [EJS](https://github.com/misumi-takuma/web_template/tree/ejs)
+
 ## コマンド
 
 ```
