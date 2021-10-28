@@ -1,4 +1,6 @@
-## web template
+## web template（EJS）
+
+EJS が使えるテンプレート
 
 ## コマンド
 
