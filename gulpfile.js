@@ -69,7 +69,6 @@ const imageMin = (done) => {
         imageminSvg()
       ])
     )
-    // 圧縮したファイルの吐き出し先のパス
     .pipe(dest(`${config.tasks.images.dist}`))
   done()
 }
